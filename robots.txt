@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: Hongyu_Zhu.github.io/sitemap.xml
+Sitemap: https://Hongyu-Zhu-2005.github.io/sitemap.xml

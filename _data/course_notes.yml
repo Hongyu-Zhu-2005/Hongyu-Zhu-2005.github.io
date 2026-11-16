@@ -6,6 +6,8 @@
       path: /assets/pdf/course-notes/MATH5605_Functional_Analysis_Lecture_Notes.pdf
     - label: VividBook edition (PDF)
       path: /assets/pdf/course-notes/MATH5605_Functional_Analysis_VividBook.pdf
+    - label: LaTeX source (ZIP)
+      path: /assets/pdf/course-notes/MATH5605_Functional_Analysis_LaTeX_Source.zip
 
 - title: 陈省身、陈维桓《微分几何讲义》翻译稿
   status: forthcoming

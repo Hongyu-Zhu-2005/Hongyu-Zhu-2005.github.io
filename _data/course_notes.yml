@@ -1,0 +1,26 @@
+- title: MATH5605 Functional Analysis
+  status: available
+  description: Personal lecture notes for MATH5605 at UNSW.
+  files:
+    - label: Lecture notes (PDF)
+      path: /assets/pdf/course-notes/MATH5605_Functional_Analysis_Lecture_Notes.pdf
+    - label: VividBook edition (PDF)
+      path: /assets/pdf/course-notes/MATH5605_Functional_Analysis_VividBook.pdf
+
+- title: 陈省身、陈维桓《微分几何讲义》翻译稿
+  status: forthcoming
+
+- title: UNSW algebra course notes
+  status: forthcoming
+
+- title: UNSW MATH3701 course notes
+  status: forthcoming
+
+- title: UNSW MATH3611 course notes
+  status: forthcoming
+
+- title: Errata for Ian's MATH3611 lecture notes
+  status: forthcoming
+
+- title: UNSW MATH5825 course notes
+  status: forthcoming

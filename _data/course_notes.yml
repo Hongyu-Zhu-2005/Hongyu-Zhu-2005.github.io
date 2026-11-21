@@ -22,7 +22,11 @@
   status: forthcoming
 
 - title: Errata for Ian's MATH3611 lecture notes
-  status: forthcoming
+  status: available
+  description: A list of typos and corrections for Ian Doust's MATH3611 lecture notes.
+  files:
+    - label: Errata (PDF)
+      path: /assets/pdf/course-notes/MATH3611_Ian_Doust_Lecture_Notes_Errata.pdf
 
 - title: UNSW MATH5825 course notes
   status: forthcoming
